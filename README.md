@@ -9,12 +9,12 @@ Todas as aulas do curso foram criadas pelo profissional Ramiro Lobo da **Hostnet
 * EWWW Image Optimizer
 * Google Analytics
 * Importador Wordpress
-* Microthemer
+* Microthemer - Editor de css visual
 * Rank Math SEO
-* Really Simple SSL
+* Really Simple SSL - Converte tudo (imagens por exemplo) para HTTPS
 * Ultimate Addons for Gutenberg
 * UpdraftPlus Backup / Restore
 * WP Mail SMTP
-* WP Super Cache
-* WPForms Lite
+* WP Super Cache - Serve para deixar o site rápido
+* WPForms Lite - Fazer formulários
 * WPS Hide Login
